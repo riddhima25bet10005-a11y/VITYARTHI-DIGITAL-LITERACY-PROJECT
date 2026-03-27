@@ -1,0 +1,71 @@
+Introduction
+
+This project report documents my work as a Student Digital Ambassador for the CSE0001 Digital Literacy course at VIT Bhopal University. The project required me to build a comprehensive Digital Literacy Portfolio covering five key modules of the course — each addressing a critical aspect of navigating the digital world as a student and future professional.
+The five tasks I completed are: designing a digital literacy awareness infographic, building a professional student portfolio across online platforms, exploring coding practice and cloud collaboration tools, drafting professional emails and an etiquette guide, and researching a cybercrime type to produce an awareness resource for my batchmates.
+Every tool used in this project is free and accessible through a browser, requiring no prior technical expertise. This project has provided me with practical digital skills that I intend to build upon throughout my four years at VIT Bhopal University.
+Task 1 – Digital Literacy Awareness Infographic
+
+Tool Used
+I used Google Slides with a SlidesCarniVal template (slidescarnival.com) to create the infographic. SlidesCarniVal provides free, professionally designed templates that import directly into Google Slides. I chose this tool because it is fully integrated with my Google account, requires no additional software, and produces clean and polished visuals that can be exported easily as images or PDFs.
+What My Design Shows
+The infographic is titled "Be Smart Online — A Digital Literacy Guide" and is structured into four main content sections plus two supplementary visual strips:
+Top Digital Tools for Students – Five free browser-based tools: Google Drive, Canva, Grammarly, Notion, and Zoom
+Email Etiquette – Six rules for writing professional emails, with a highlighted warning against using slang or emoji in formal communication
+Safe Internet Practices – Six habits including OTP protection, HTTPS verification, avoiding public Wi-Fi for banking, and enabling two-factor authentication
+Build Your Professional Presence – Four platforms (LinkedIn, GitHub, Kaggle, Stack Overflow) with brief notes on what each is used for
+4 Steps to Stay Safe Online – A visual step-by-step flow: Think → Verify → Protect → Report
+Quick Tips Strip – Six bite-sized facts including the UPI QR code misconception and the national cyber crime helpline 1930
+Reflection
+The most challenging part of designing this infographic was organising so much information into a layout that is easy to scan in under two minutes. I found the process of reducing each topic to four or five bullet points genuinely difficult — it forced me to identify what is truly essential versus what is just additional detail. The most interesting discovery was how adding a simple visual flow (the four-step safety guide) made the infographic feel more actionable. A list of tips tells you what to know; a process tells you what to do. That distinction changed how I thought about communicating information visually.
+Task 2 – Student Digital Portfolio
+
+Platforms Set Up
+I created and configured accounts on three professional platforms: GitHub, LinkedIn, and Stack Overflow.
+GitHub is the world's largest code hosting platform. I created a profile README with my name, branch, year, and one sentence about my learning goals: "I am a first-year Electronics & Technology student at VIT Bhopal, looking forward to learning embedded systems, Python, and exploring the intersection of hardware and software."
+LinkedIn is the leading professional networking platform used by recruiters and hiring managers globally. I completed the Education section with my B.Tech (Electronics & Technology) degree at VIT Bhopal University and expected graduation year of 2029. I also added a student headline to make my profile discoverable.
+Stack Overflow is the world's largest Q&A community for developers and programmers. Even as a first-year student, having an account encourages me to search for solutions to coding problems systematically, learn how to frame technical questions clearly, and eventually contribute answers as my knowledge grows.
+Future Plans
+Over the next four years, I plan to use GitHub as a running log of my academic projects — starting with my first-semester C programming lab assignments. By third year, I aim to have at least one personal IoT or embedded systems project publicly hosted. On LinkedIn, I will update my profile with every internship, workshop, and major certification, and I plan to write at least one post per semester reflecting on what I have learned. On Stack Overflow, I will begin by learning from existing answers and working up to contributing my own responses to beginner-level questions in Python and C by my second year.
+Task 3 – Coding & Collaboration Platforms
+
+Part A – Coding Practice (HackerRank)
+I created an account on HackerRank and completed two beginner-level challenges. The first was "Solve Me First" under the Algorithms section, which requires writing a function to add two numbers. Although the problem is simple, it taught me how HackerRank handles input/output — a concept that is essential for all future challenges on the platform. I received a score of 1/1 and earned the corresponding badge.
+The second challenge was the "Python: Introduction" challenge, which tests basic print statements and variable assignments. Both challenges were completed successfully, and screenshots are saved in task-3-platforms/ in the repository.
+
+Task 4 – Professional Email & Etiquette Guide
+
+Emails Written
+I drafted two professional emails, both saved in task-4-email-etiquette/ in the repository.
+Email 1 is a query to the Finance Office regarding an error encountered on the student fee payment portal. The email clearly identifies the sender, describes the problem precisely (an "Account not yet activated" error), states the steps already taken, requests specific guidance, and closes politely with a full sign-off including registration number and college email.
+Email 2 is an expression of interest in an IoT and Embedded Systems workshop. The email mentions where the workshop was discovered, connects it to the sender's area of study, requests the registration link and prerequisites, and ends with confirmation of availability and a professional sign-off.
+Communication Scenario – What Poor Digital Communication Looks Like
+A common scenario in college settings: a student joins a batch WhatsApp group and forwards an unverified message claiming that "all exams have been postponed by one week" without checking with any official source. Within minutes, the message spreads to hundreds of students who alter their study plans accordingly. The official exam schedule remains unchanged, and students who trusted the forwarded message are unprepared.
+What could have been done differently: Before forwarding any important academic information, the student should have verified it through the official VIT Bhopal portal, the faculty in charge, or the department notice board. A simple rule — "check before you share" — would have prevented the confusion. This scenario illustrates how digital communication carries real-world consequences, and that responsible digital behaviour is not just about protecting oneself from external threats but also about the impact of one's own actions on others.
+Task 5 – Cybercrime Awareness Case Study & Prevention Guide
+
+Cybercrime Type Chosen: Phishing
+I chose phishing because it is one of the most versatile and widespread forms of cybercrime, affecting students specifically through fake scholarship emails, fake university login pages, and fraudulent job offer links. Unlike UPI fraud, which exploits a technical misunderstanding, phishing exploits trust — and trust is something students place in authority figures and official-looking communications every day.
+What Surprised Me Most
+The thing that surprised me most during my research was how technically sophisticated modern phishing websites look. I had assumed that fake websites would be obviously poorly designed — with spelling errors, broken images, and generic layouts. In reality, many phishing sites are pixel-perfect copies of the original, complete with logos, navigation menus, and even a functioning SSL certificate (the padlock icon), which many people mistakenly believe proves a website is safe. This means that visual inspection alone is not sufficient protection. The only reliable defence is to never click email links for sensitive actions — always type the URL directly.
+One Habit I Will Personally Change
+As a result of this research, I will stop using email links to log in to any platform. Instead, I will bookmark the official websites I use regularly — my college portal, net banking, and scholarship portals — and access them only through those bookmarks. I will also look at the full domain name of every website I am about to enter information on, not just the beginning. A domain like "vitbhopal.ac.in.studentportal.xyz" is not the VIT Bhopal website — the real domain ends at ".ac.in". This one habit, consistently applied, would have protected the victim in my case study entirely.
+Conclusion
+
+Completing this Digital Literacy Portfolio has been an eye-opening experience. Before this project, I treated digital tools as things I simply used — without much thought about why, how safely, or how professionally. Working through all five tasks has changed that perspective.
+I now have live profiles on GitHub, LinkedIn, and Stack Overflow that I am genuinely committed to maintaining. I understand how to write a professional email, how to design information for a specific audience, and how to identify the signs of a phishing attack. Most importantly, I understand that digital literacy is not a technical skill reserved for computer science students — it is a life skill that applies to every student, every professional, and every citizen navigating the modern world.
+I look forward to building on this foundation throughout my time at VIT Bhopal University.
+References
+
+National Cyber Crime Reporting Portal – cybercrime.gov.in (accessed March 2026)
+CERT-In Phishing Awareness Advisory – cert-in.org.in (accessed March 2026)
+Ministry of Education, India – Digital Literacy Programme Guidelines – education.gov.in (accessed March 2026)
+NPCI (National Payments Corporation of India) – UPI Safety Guidelines – npci.org.in (accessed March 2026)
+Google Slides – Presentation Tool – slides.google.com
+SlidesCarniVal – Free Presentation Templates – slidescarnival.com
+HackerEarth – Competitive Programming Platform – hackerearth.com
+GitHub – Code Hosting and Version Control – github.com
+LinkedIn – Professional Networking Platform – linkedin.com
+Stack Overflow – Developer Q&A Community – stackoverflow.com
+Google Forms – Survey and Quiz Tool – forms.google.com
+CSE0001 Digital Literacy Course Material – VIT Bhopal University, 2025–26
+Riddhima Saluja | 25BET10005 | B.Tech Electronics & Technology | VIT Bhopal University | 2025–26
