@@ -1,7 +1,11 @@
 # VITYARTHI-DIGITAL-LITERACY-PROJECT
 
 Digital Literacy Portfolio — CSE0001
-FieldDetailsNameRiddhima SalujaReg. No.25BET10005BranchB.Tech – Electronics & TechnologyYearFirst Year (2025–26)CourseCSE0001 – Digital LiteracyInstitutionVIT Bhopal University
+FieldDetailsNameRiddhima Saluja
+Reg. No.25BET10005BranchB.Tech – Computer Science and Engineering 
+First Year (2025–26)
+CourseCSE0001 – Digital Literacy
+Institution - VIT Bhopal University
 
 📋 Project Overview
 This repository is my Digital Literacy Portfolio submitted as part of the CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have completed five tasks covering digital literacy fundamentals, professional online presence, coding platforms, professional email communication, and cybercrime awareness.
@@ -31,11 +35,11 @@ Created a one-page visual infographic using Google Slides with a SlidesCarniVal 
 Task 2 — Student Digital Portfolio
 Set up professional profiles on GitHub, LinkedIn, and Stack Overflow. GitHub profile README introduces my academic background; LinkedIn has the Education section completed with my B.Tech (Electronics & Technology) details.
 🔗 GitHub Profile README:https://github.com/riddhima25bet10005-a11y
-🔗 LinkedIn: linkedin.com/in/riddhima-saluja-vitb
+🔗 LinkedIn: https://www.linkedin.com/in/riddhima-s-478146380?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 🔗 Stack Overflow: stackoverflow.com/users/riddhima-saluja
 Task 3 — Coding & Collaboration Platforms
 Completed the "Solve Me First" beginner challenge on HackerRank.
-🔗 Digital Literacy Quiz (Google Form): forms.gle/dlquiz-riddhima-vitb
+🔗 Digital Literacy Quiz (Google Form): https://forms.gle/Exve7rPd46jPS18Y8
 Task 4 — Professional Email & Etiquette Guide
 Drafted two professional emails (fee payment clarification request + workshop registration interest email) following all email etiquette standards. Created a Social Media Do's and Don'ts checklist with actionable tips for college students.
 Task 5 — Cybercrime Awareness
