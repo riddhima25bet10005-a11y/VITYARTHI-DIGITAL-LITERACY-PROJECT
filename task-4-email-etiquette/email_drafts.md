@@ -20,7 +20,7 @@ Yours sincerely,
 Riddhima Saluja
 25BET10005 | B.Tech Electronics & Technology | First Year
 VIT Bhopal University
-riddhima.saluja2025@vitbhopal.ac.in
+riddhima.25bet10005@vitbhopal.ac.in
 
 ---
 
@@ -42,7 +42,7 @@ Warm regards,
 Riddhima Saluja
 25BET10005 | B.Tech Electronics & Technology | First Year
 VIT Bhopal University
-riddhima.saluja2025@vitbhopal.ac.in
+riddhima.25bet10005@vitbhopal.ac.in
 
 ---
 
