@@ -5,6 +5,7 @@ Part A – Coding Practice: HackerRank
 **Platform used:** HackerRank (hackerrank.com)
 
 I created an account on HackerRank and completed the **"Solve Me First"** challenge under the Algorithms section. The challenge asks you to write a function that adds two numbers — it is intentionally simple to help beginners understand how the platform's input/output system works. I received the task's badge and a score of 1/1.
+<img width="1905" height="934" alt="image" src="https://github.com/user-attachments/assets/d0aa8ee0-360d-4717-9a51-0b383400a2c5" />
 
 I also attempted the **"Python: Introduction"** challenge, which tests basic print statements and variable assignments. Both challenges were completed successfully.
 
@@ -22,7 +23,7 @@ I built a **5-question Digital Literacy Awareness Quiz** using Google Forms. The
 
 The form is connected to a Google Sheet that collects and organises all responses automatically. I enabled the "Collect email addresses" option so responses can be tracked by participant.
 
-🔗 **Quiz Link:** [forms.gle/dlquiz-riddhima-vitb](https://forms.gle/dlquiz-riddhima-vitb)
+🔗 **Quiz Link:** [forms.gle/dlquiz-riddhima-vitb](https://forms.gle/N17SpBGRfzE1KEyZ8)
 
 > Screenshots of the form and the linked response Google Sheet are saved in task-3-platforms/.
 
